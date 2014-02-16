@@ -13,3 +13,4 @@ TODO
 
 * Support JWK
 * Support JWE
+* Add tests
