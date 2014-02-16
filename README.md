@@ -1,9 +1,13 @@
 jwt-haskell
 ===========
 
-_JSON Web Token (JWT) library for Haskell_
+Minimal support for generating:
+
+* JSON Web Token (JWT)
+* JSON Web Signature (JWS)
+* ~~JSON Web Key (JWK)~~
 
 TODO
 ----
 
-* Add `JWK`?
+* Support JWK
